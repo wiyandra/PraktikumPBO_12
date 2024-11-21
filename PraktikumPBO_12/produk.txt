@@ -1,0 +1,3 @@
+Nama: Es Teh, Harga: 3000.0, Stok: 50
+Nama: Komar, Harga: 20000.0, Stok: 2
+Nama: Akbar, Harga: 20000.0, Stok: 1
